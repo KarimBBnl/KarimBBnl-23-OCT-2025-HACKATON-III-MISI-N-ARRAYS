@@ -21,15 +21,6 @@
                suma = suma + resultado;
            }
             System.out.println("La suma del array es " + suma);
-
-
-
-
-
-
-
-
-
-
         }
     }
+
